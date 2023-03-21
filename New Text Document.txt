@@ -2,4 +2,8 @@
 
 5 modifico el archivo desde la web de github
 
+<<<<<<< Updated upstream
 7A modifico el archivo desde la web de github
+=======
+7B modifico el archivo desde la pc antes de pulear el archivo que esta en la web
+>>>>>>> Stashed changes
